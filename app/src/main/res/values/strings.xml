@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jee Dagger</string>
+    <string name="hilt_resource_name">This is a test string for the hilt example two.</string>
+</resources>
